@@ -1,5 +1,5 @@
 {
-  "homepage": "http://lubosg12.github.io/weather-app",
+  "homepage": "http://lubosg12.github.io/Weather-App/",
   "name": "weatherapp",
   "version": "1.0.0",
   "private": true,
@@ -13,7 +13,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
